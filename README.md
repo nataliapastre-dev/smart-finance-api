@@ -6,7 +6,7 @@ A **Smart Finance API** é uma API REST desenvolvida com Spring Boot que simula 
 
 ## 📌 Objetivo do Projeto
 
-Este projeto foi desenvolvido com fins acadêmicos e práticos, buscando consolidar o conhecimento em desenvolvimento backend com o ecossistema Spring. Os principais focos foram:
+Este projeto foi desenvolvido com foco prático, buscando consolidar o conhecimento em desenvolvimento backend com o ecossistema Spring. Os principais focos foram:
 
 - **Arquitetura Limpa:** Divisão clara de responsabilidades através da estruturação em camadas (Controller, Service, Config).
 - **Padrões REST:** Criação de endpoints robustos e aderentes aos padrões HTTP.
